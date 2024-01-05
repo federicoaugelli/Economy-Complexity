@@ -2,5 +2,5 @@
  Complex Systems Physics course project
 
 
-![PDF Example](./Fisica_dei_sistemi_complessi.pdf)
+![Economic Complexity](Fisica_dei_sistemi_complessi.pdf)
 
